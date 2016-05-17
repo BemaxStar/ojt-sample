@@ -37,6 +37,8 @@
 
 					 <button type="submit" class="btn btn-default fltr" name="register">@if(isset($user_info)) Update @else Register @endif</button>
 				</form>
+
+				
 		</div>
 
 		<div class="col-lg-8 gray hreg">
