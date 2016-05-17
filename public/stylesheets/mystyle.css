@@ -1,0 +1,84 @@
+.black{
+	background-color: black;
+}
+
+.fltr{
+	float: right;
+}
+
+.fltl{
+	float: left;
+}
+
+.gray{
+	background-color: gray;
+}
+
+.red{
+	background-color: red;
+}
+
+a.hov:hover{
+    color: #b0171f;
+}
+
+a.hov1:hover{
+    color: #0000ff;
+}
+
+a.hov2:hover{
+    color: #00ff00;
+}
+
+#footer {
+    background-color: #ffff00;
+    color: #ffffff;
+    clear: both;
+    text-align: right;
+    padding: 5px;        
+}
+
+.cyan{
+	background-color: cyan;
+}
+
+.center{
+	text-align: center;
+	color: white;
+}
+
+.odd{
+	background-color: red;
+}
+
+.even{
+	background-color: blue;
+}
+
+.imgsize{
+	height:50px;
+	width: 50px;
+}
+
+.blackc{
+	color: black;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.hreg{
+	height: 550px;
+}
+
+.whitec{
+	color: white;
+}
+
+.haw{
+	height: 20px;
+	width: 20px;
+}
+
+
